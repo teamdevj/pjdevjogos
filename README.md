@@ -1,4 +1,4 @@
-# pjdevjogos
+# Projeto DevJogos
 
   ### Fase 01 - [Modelagem]
 
