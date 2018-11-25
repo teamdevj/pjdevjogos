@@ -8,7 +8,7 @@
   - [ ] Personagem 01
   - [ ] Personagem 02
 
-  ### Transição
+  ### Transição Fase
   - [ ] Posicionamento dos modelos
 
   ### Fase 2 - Animação
