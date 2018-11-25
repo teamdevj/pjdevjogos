@@ -1,6 +1,6 @@
 # pjdevjogos
 
-  ### Fase 1 [Modelagem]
+  ### Fase 01 - [Modelagem]
 
   - [ ] Ambiente Externo
   - [ ] Ambiente Interno
@@ -8,10 +8,10 @@
   - [ ] Personagem 01
   - [ ] Personagem 02
 
-  ### Transição Fase
+  ### >< Transição 
   - [ ] Posicionamento dos modelos
 
-  ### Fase 2 [Animação]
+  ### Fase 02 - [Animação]
   - [ ] Luz
   - [ ] Camera
   
